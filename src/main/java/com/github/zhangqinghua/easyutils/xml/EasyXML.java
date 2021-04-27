@@ -1,4 +1,4 @@
-package org.zhangqinghua.easyutils.xml;
+package com.github.zhangqinghua.easyutils.xml;
 
 
 import org.dom4j.Document;
