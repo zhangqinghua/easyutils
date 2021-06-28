@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.codingapi.txlcn</groupId>
+  <artifactId>txlcn-tc</artifactId>
+  <version>5.0.4.SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210628.125229</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210628125229</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>5.0.4.20210628.125229-1</value>
+        <updated>20210628125229</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>5.0.4.20210628.125229-1</value>
+        <updated>20210628125229</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
